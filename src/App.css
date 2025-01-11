@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  overflow: auto;
+}
+
+
+.App {
+  text-align: center;
+}
+
+
+
+button{
+
+  color: white;
+  background-color: #22262b;
+  width: 7em;
+  border: none;
+}
